@@ -1,6 +1,6 @@
-# Svelte + SSR + TS + Vite
+# Svelte + SSR + TS + Tailwind + Vite
 
-This template should help get you started developing with vite-plugin-ssr, Svelte and TypeScript in Vite.
+This template should help get you started developing with vite-plugin-ssr, Svelte, Tailwind and TypeScript in Vite.
 
 ## Recommended IDE Setup
 
